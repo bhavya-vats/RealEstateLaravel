@@ -1,0 +1,4 @@
+[build]
+  functions = "functions"
+  command = "echo 'No build command'"
+  publish = "/path/to/your/static/files"
